@@ -5,4 +5,6 @@ I used JQuery for the most part. I could not figure out how to use the jQuery Da
 *I also used bootstrap for the frontend. 
 
 
-![figure](https://github.com/mawehelie/wall-facebook/raw/master/wall/wall.png)
+![figure](https://github.com/mawehelie/wall/raw/master/wall/wall.png)
+
+
