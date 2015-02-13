@@ -6,5 +6,3 @@ I used JQuery for the most part. I could not figure out how to use the jQuery Da
 
 
 ![figure](https://github.com/wehelie/wall/raw/master/wall/wall.png)
-
-(https://github.com/wehelie/wall/raw/master/wall/wall.png)
